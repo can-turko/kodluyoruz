@@ -5,7 +5,7 @@
 ```
 https://github.com/can-turko/kodluyoruz.git
 ```
-![resim](![](Screenshot%202022-08-07%20172110.png))
+![resim](Screenshot%202022-08-07%20172110.png)
 
 ## Usage
 
